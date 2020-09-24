@@ -2,7 +2,7 @@
 
 namespace lab7._6
 {
-    class Program
+    class Program // в разработке...
     {
         static void Main(string[] args)
         {
