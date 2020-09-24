@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace labs8
+namespace lab8._1
 {
     class Program
     {
