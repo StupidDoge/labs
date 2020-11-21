@@ -28,7 +28,7 @@ namespace lab25._5
                 if (textList[i] == Convert.ToChar("\n"))
                     textList.RemoveAt(i);
 
-            for (int i = 0; i < textList.Count - 5; i++)
+            for (int i = 0; i < textList.Count - 4; i++)
             {
                 if (textList[i] == ' ' && textList[i + 1] == ' ' && textList[i + 2] == ' '
                     && textList[i + 3] == ' ' && textList[i + 4] == ' ')
