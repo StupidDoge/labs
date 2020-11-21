@@ -1,0 +1,2 @@
+Text from file3-2
+Text from file3-1
